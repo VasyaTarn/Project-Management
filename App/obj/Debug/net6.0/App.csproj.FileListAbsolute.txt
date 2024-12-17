@@ -1,0 +1,14 @@
+D:\PM\PM-dz-master\App\bin\Debug\net6.0\App.exe
+D:\PM\PM-dz-master\App\bin\Debug\net6.0\App.deps.json
+D:\PM\PM-dz-master\App\bin\Debug\net6.0\App.runtimeconfig.json
+D:\PM\PM-dz-master\App\bin\Debug\net6.0\App.dll
+D:\PM\PM-dz-master\App\bin\Debug\net6.0\App.pdb
+D:\PM\PM-dz-master\App\obj\Debug\net6.0\App.GeneratedMSBuildEditorConfig.editorconfig
+D:\PM\PM-dz-master\App\obj\Debug\net6.0\App.AssemblyInfoInputs.cache
+D:\PM\PM-dz-master\App\obj\Debug\net6.0\App.AssemblyInfo.cs
+D:\PM\PM-dz-master\App\obj\Debug\net6.0\App.csproj.CoreCompileInputs.cache
+D:\PM\PM-dz-master\App\obj\Debug\net6.0\App.dll
+D:\PM\PM-dz-master\App\obj\Debug\net6.0\refint\App.dll
+D:\PM\PM-dz-master\App\obj\Debug\net6.0\App.pdb
+D:\PM\PM-dz-master\App\obj\Debug\net6.0\App.genruntimeconfig.cache
+D:\PM\PM-dz-master\App\obj\Debug\net6.0\ref\App.dll
